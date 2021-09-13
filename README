@@ -1,0 +1,11 @@
+This is my first project working with the inbuit graphical user interface in python called tkinter.
+
+I used it to create a simple alarm clock where you can pick the songs that you wanted to play when the clock hit a certain time.
+
+Although there are a couple errors such as:
+- if the time isnt in 24hr format it crashes
+- the layout isn't user friendly
+- when the program starts, there is an error when selecting the time you want
+- the songs have to be downloaded and placed in a specific file for the program to work
+- if the time you want the alarm clock to ring at is too big, it crashes
+- if the time you want the alarm clock to ring is before the current time, it crashes. 
